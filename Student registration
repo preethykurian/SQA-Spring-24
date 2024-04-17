@@ -1,2 +1,4 @@
 read subj1, subj2, subject3, subject 4
 CGPA =ubj1+subj+subject3+subject 4/4
+if cgpa is less than 2 allocate only 2 modules
+else student can be given 4 modules
